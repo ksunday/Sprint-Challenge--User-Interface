@@ -70,7 +70,10 @@ p {
     width: 800px;
     margin: 0 auto;
 }
-
+.container-about-page{
+    width: 800px;
+    margin: 0 auto;
+}
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -285,18 +288,24 @@ header{
     justify-content: center;
     background-color:dodgerblue;
 }
+
+
 .Jumbo-About{
     margin-top:40px;
     margin-bottom:40px;
 }
 .AboutSection{
     width:auto;
+    align-content: center;
 }
 .strategy-img{
-    margin-left:295px;
+    
 }
 .howweworkimg{
     margin-left: 60px;
+}
+.TopPhotos{
+    display:flex;
 }
 .top-row{
     display:flex; 
@@ -305,7 +314,7 @@ header{
     width:367px;
 }
 .top-row .Strategy{
-    margin-left:295px;
+    margin-left:0px;
     margin-top:5px;
 }
 .top-row .HowWeWork{
@@ -313,22 +322,29 @@ header{
     margin-top:5px;
 }
 .Middle-Content1{
-    align-content: center;
-    margin-left:200px;
+    
+    
 }
 .PlacesWeWorkimg{
-    margin-left:295px;
+    
 }
 .about-meetingimg{
     margin-left: 60px;
 }
-
+.bottomphotos{
+    display: flex;
+}
 .bottomrow{
     display:flex;
-    margin-left: 295px;
+    
 }
 .bottomrow p{
     width:367px;}
     .bottomrow .Collaboration{
         margin-left: 66px;
     }
+.letsworktogether{
+    width:838px;
+    
+    margin-bottom:40px;
+}
