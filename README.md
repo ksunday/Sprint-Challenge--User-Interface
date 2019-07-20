@@ -34,13 +34,26 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is used to give a page meaning as well as assist with Search Engine Optimization. 
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+1 Inline allows for adjusting height and width 
+2 Block starts on a new line and takes up the entire width portion  
+
 
 3. What are the 4 areas of the box model?
 
+Margin, Border, Padding, Content height/width (content edge)
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+Cross Axis 
+
 5. Explain why git is valuable to a team of developers.
+
+Git allows a team of people to work on a project so that they can communicate better while recording blocks of time where a developer can go back and fix things if needed and take time stamps of their work and progess. 
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
