@@ -70,7 +70,10 @@ p {
     width: 800px;
     margin: 0 auto;
 }
-
+.container-about-page{
+    width: 800px;
+    margin: 0 auto;
+}
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -104,7 +107,7 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
+    
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -143,4 +146,208 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+header{
+    display:flex;
+}
+
+.topnav nav{ 
+
+	display: flex;
+    margin-left: 40px; 
+    justify-content: space-evenly;
+    
+    width: 675px; 
+    align-items: center;
+    margin-top: 20px;
+    
+
+    
+}
+
+.topnav nav a{
+
+    color:black; 
+    text-decoration: black;
+}
+
+.indexjumbo{
+
+    margin-top:35px;
+    margin-bottom:35px;
+}
+
+.middle-content .boxes .box1 {
+    width: 12.5%;
+    height: 100px;
+    
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:teal;
+}
+.middle-content .boxes .box2 {
+    width: 12.5%;
+    height: 100px;
+    
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:gold;
+}
+.middle-content .boxes .box3 {
+    width: 12.5%;
+    height: 100px;
+    
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:cadetblue;
+}
+.middle-content .boxes .box4 {
+    width: 12.5%;
+    height: 100px;
+    
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:coral;
+}
+.middle-content .boxes .box5 {
+    width: 12.5%;
+    height: 100px;
+    
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: crimson;
+}
+.middle-content .boxes .box6 {
+    width: 12.5%;
+    height: 100px;
+    
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:forestgreen;
+}
+.middle-content .boxes .box7 {
+    width: 12.5%;
+    height: 100px;
+    
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:darkorchid;
+}
+.middle-content .boxes .box8 {
+    width: 12.5%;
+    height: 100px;
+    
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:hotpink;
+}
+.middle-content .boxes .box9 {
+    width: 12.5%;
+    height: 100px;
+    
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:indigo;
+}
+.middle-content .boxes .box10 {
+    width: 12.5%;
+    height: 100px;
+    
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:dodgerblue;
+}
+
+
+.Jumbo-About{
+    margin-top:40px;
+    margin-bottom:40px;
+}
+.AboutSection{
+    width:auto;
+    align-content: center;
+}
+
+.howweworkimg{
+    margin-left: 60px;
+}
+.TopPhotos{
+    display:flex;
+}
+.top-row{
+    display:flex; 
+}
+.top-row p{
+    width:367px;
+}
+.top-row .Strategy{
+    margin-left:0px;
+    margin-top:5px;
+}
+.top-row .HowWeWork{
+    margin-left: 66px;
+    margin-top:5px;
+}
+
+.about-meetingimg{
+    margin-left: 60px;
+}
+.bottomphotos{
+    display: flex;
+}
+.bottomrow{
+    display:flex;
+    
+}
+.bottomrow p{
+    width:367px;}
+    .bottomrow .Collaboration{
+        margin-left: 66px;
+    }
+.letsworktogether{
+    width:838px;
+    
+    margin-bottom:40px;
+}
+.Middle-Content1 .button{
+    width: 50%;
+    border: solid black 1px;
+    height: 40px;
+    text-align: center;
+    margin-top:15px;
+    margin-bottom: 15px;
+    padding-top:8px;
+    border-radius: 10%;
+    background: white;
 }
